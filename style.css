@@ -1,0 +1,45 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+    
+    
+    }
+    .main_div{
+    background-color: lightskyblue;
+    
+    border: 40px #60A3D9;
+    
+    }
+    
+    .header_div{
+        background-color: white;
+    text-align: center;
+    font-size:30px ;
+    color: rgb(163, 248, 215);
+    
+    }
+    button{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         background-color: rgb(236, 173, 182);
+        margin-top: 30px;
+        width: 130px;
+        font-weight:30px ;
+        
+    
+    }
+    .copy-right-footer{
+    text-align: center;
+        position: fixed;
+    color: rgb(0, 0, 0);
+        width: 100%;
+        font-size: 50px;
+        line-height: 3px;
+        background-color: rgb(95, 226, 255);
+        text-shadow: 5px 5px 5px rgb(255, 255, 255);
+        font-weight: 100;
+    }
+    
+    
+    
+    
